@@ -11,10 +11,9 @@
 
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdynikhil&show_icons=true&theme=dark)
-![Under the hood](https://github-readme-stats.vercel.app/api/top-langs/?username=nerdynikhil&hide=css,java,html&theme=dark&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nerdynikhil&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=nerdynikhil&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 <br>
-
 Know more about me at [Sourcerer](https://sourcerer.io/nerdynikhil)
 
 [![Twitter Badge](https://img.shields.io/badge/-@nerdynikhil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerdynikhil)](https://twitter.com/nklmarch17) [![Linkedin Badge](https://img.shields.io/badge/-nerdynikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerdynikhil/)](https://www.linkedin.com/in/nerdynikhil/) [![Medium Badge](https://img.shields.io/badge/-@nerdynikhil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nerdynikhil/)](https://medium.com/@nerdynikhil)
