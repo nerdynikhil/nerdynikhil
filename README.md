@@ -2,12 +2,13 @@
 
 - 👋 I'm Nikhil, a passionate tech enthusiast, coder, blogger and a human.
 
-- 🔭 Currently studying at College of Engineering and Technology, Bhubaneswar.
+- 🏢 Founder, [Zigbee Student Developers Club](https://www.zigbeecetb.tech/).
 
-- 👨🏽‍💻 Skilled in Mobile Application Development using Flutter and MERN Stack. Enthusiastic about open source contribution, cloud and DevOps. Beginner but avid competitive coder. Linux Aficionado.  
+- 🔭 Final year grad student at Odisha University of Technology and Research, Bhubaneswar.
 
-- 🌱 Looking forward to learning a lot.
+- 👨🏽‍💻 Interested in problem-solving in general, mobile app development, blockchain, cloud, and DevOps.
 
+- 🌱 Currently mentoring for the project [CodeStreak](https://github.com/nerdynikhil/codestreak) at Script Winter of Code (SWoC) 2021.
 
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nerdynikhil&show_icons=true&theme=dark)
