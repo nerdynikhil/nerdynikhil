@@ -2,9 +2,13 @@
 
 - 👋 I'm Nikhil, a passionate tech enthusiast, coder, blogger and a human.
 
-- 🏢 Founder, [Zigbee Student Developers Club](https://www.zigbeecetb.tech/).
+- 💼 Currently working as a Software Engineer @Yahoo India
 
-- 🔭 Final year grad student at Odisha University of Technology and Research, Bhubaneswar.
+- 🌱 Former GoogleCloudReady Facilitator, 2x GirlScript Summer of Code Mentor ('21, '22), Project Admin @ Script Winter of Code (SWoC '21), JIIT HackWeek, JIIT Open-Source Developers Circle (JODC), Instructor - Cross Platform Mobile App Development with Flutter @ Google Developers Student Club, CETB
+
+- 🏢 Founder, [Zigbee Student Developers Club](https://www.zigbeeoutr.tech/).
+
+- 🔭 Grad student at Odisha University of Technology and Research, Bhubaneswar.
 
 - 👨🏽‍💻 Interested in problem-solving in general, mobile app development, blockchain, cloud, and DevOps.
 
@@ -18,7 +22,7 @@
 Know more about me at [Sourcerer](https://sourcerer.io/nerdynikhil)
 
 [![Twitter Badge](https://img.shields.io/badge/-@nerdynikhil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nerdynikhil)](https://twitter.com/nklmarch17) [![Linkedin Badge](https://img.shields.io/badge/-nerdynikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nerdynikhil/)](https://www.linkedin.com/in/nerdynikhil/) [![Medium Badge](https://img.shields.io/badge/-@nerdynikhil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nerdynikhil/)](https://medium.com/@nerdynikhil)
-[![Gmail Badge](https://img.shields.io/badge/-nklmarch17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nklmarch17@gmail.com)](mailto:nklmarch17@gmail.com)
+[![Yahoo Badge](https://img.shields.io/badge/-nerdynikhil@yahoo.com-c14438?style=flat-square&logo=Yahoo&logoColor=white&link=mailto:nerdynikhil@yahoo.com)](mailto:nerdynikhil@yahoo.com)
 
 
 ### Languages and Tools
